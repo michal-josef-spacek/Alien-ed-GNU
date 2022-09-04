@@ -1,0 +1,12 @@
+alienfile
+Changes
+GNU.pm
+LICENSE
+Makefile.PL
+MANIFEST			This list of files
+t/Alien-ed-GNU/01-use.t
+t/Alien-ed-GNU/02-version.t
+t/Alien-ed-GNU/03-diag.t
+t/Alien-ed-GNU/04-exe.t
+xt/Alien-ed-GNU/01-pod_coverage.t
+xt/Alien-ed-GNU/02-pod.t
