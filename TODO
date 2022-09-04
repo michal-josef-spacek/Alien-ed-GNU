@@ -5,7 +5,8 @@ TODO
 4. In case of system ed example doesn't work properly.
 5. Old version of ed has `ed --version` with 'GNU Ed __VERSION__' string. Test
 not working.
-6.
+6. Add support for download versions which archived via tar.gz
+7.
 
 Applied
 =======
