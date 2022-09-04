@@ -1,8 +1,9 @@
 TODO
 ====
-1. How to test ed
-echo 'q' | ed
-2.
 
 Applied
 =======
+1. How to test ed
+echo 'q' | ed
+Not needed, GNU ed has --version
+NONE [20220904] skim
