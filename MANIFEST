@@ -1,5 +1,6 @@
 alienfile
 Changes
+examples/print_variables.pl
 GNU.pm
 LICENSE
 Makefile.PL
