@@ -6,7 +6,7 @@ use warnings;
 
 use Path::Tiny qw(path);
 
-our $VERSION = 0.01;
+our $VERSION = 0.02;
 
 sub exe {
 	my $self = shift;
@@ -92,6 +92,6 @@ BSD 2-Clause License
 
 =head1 VERSION
 
-0.01
+0.02
 
 =cut
