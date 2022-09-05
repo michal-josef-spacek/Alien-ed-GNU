@@ -9,11 +9,11 @@ my %WriteMakefileArgs = (
 	'AUTHOR' => "Michal Josef \x{160}pa\x{10d}ek <skim\@cpan.org>",
 	'BUILD_REQUIRES' => {
 		'Alien::Build::MM' => '0.32',
-		'Alien::Build::Plugin::Extract::Libarchive' => 0,
 		'ExtUtils::MakeMaker' => '6.76',
 	},
 	'CONFIGURE_REQUIRES' => {
 		'Alien::Build::MM' => '0.32',
+		'Alien::Build::Plugin::Extract::Libarchive' => 0,
 		'ExtUtils::MakeMaker' => '6.76',
 	},
 	'DISTNAME' => 'Alien-ed-GNU',

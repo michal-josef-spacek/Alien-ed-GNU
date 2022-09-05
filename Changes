@@ -1,4 +1,5 @@
 0.02
+ - Fix libarchive requires, it's configure requires.
 
 0.01 2022-09-04T14:01:00+02:00
  - First version.
