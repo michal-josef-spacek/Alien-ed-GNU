@@ -1,7 +1,5 @@
 TODO
 ====
-2. Detect GNU ed
-3. In case of system ed get version and set to Alien
 4. In case of system ed example doesn't work properly.
 5. Old version of ed has `ed --version` with 'GNU Ed __VERSION__' string. Test
 not working.
@@ -14,3 +12,9 @@ Applied
 echo 'q' | ed
 Not needed, GNU ed has --version
 NONE [20220904] skim
+
+3. In case of system ed get version and set to Alien
+OK [20220905] skim
+
+2. Detect GNU ed
+OK [20220905] skim

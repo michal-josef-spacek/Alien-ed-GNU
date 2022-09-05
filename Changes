@@ -1,4 +1,5 @@
 0.02
+ - Detect GNU ed and version in system.
  - Fix libarchive requires, it's configure requires.
 
 0.01 2022-09-04T14:01:00+02:00

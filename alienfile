@@ -2,6 +2,9 @@ use alienfile;
 
 plugin 'Probe::CommandLine' => (
 	command => 'ed',
+	args => ['--version'],
+	match => qr/GNU ed/,
+	version => qr/GNU ed ([0-9\.]+)/,
 );
 
 share {
