@@ -66,13 +66,13 @@ Not yet.
  print 'version: '.Alien::ed::GNU->version."\n";
 
  # Output like (share):
- # bin_dir: ~home/perl5/lib/perl5/x86_64-linux-gnu-thread-multi/auto/share/dist/Alien-ed-GNU/bin
- # dist_dir: ~home/perl5/lib/perl5/x86_64-linux-gnu-thread-multi/auto/share/dist/Alien-ed-GNU
+ # bin_dir: ~/perl5/lib/perl5/x86_64-linux-gnu-thread-multi/auto/share/dist/Alien-ed-GNU/bin
+ # dist_dir: ~/perl5/lib/perl5/x86_64-linux-gnu-thread-multi/auto/share/dist/Alien-ed-GNU
  # install_type: share
  # version: 1.17
 
  # Output like (system):
- # dist_dir: ~home/perl5/lib/perl5/x86_64-linux-gnu-thread-multi/auto/share/dist/Alien-ed-GNU
+ # dist_dir: ~/perl5/lib/perl5/x86_64-linux-gnu-thread-multi/auto/share/dist/Alien-ed-GNU
  # install_type: system
  # version: 1.17
 
