@@ -35,8 +35,9 @@ jobs:
         perl -v
 
     - name: Install Modules
-    - run: cpanm -v
-    - run: cpanm --installdeps --notest .
+      run: |
+        cpanm -v
+        cpanm --installdeps --notest .
 
     - name: Show Errors on Windows
       if:  ${{ failure() && matrix.runner == 'windows-latest' }}
